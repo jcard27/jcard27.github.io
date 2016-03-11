@@ -3,3 +3,8 @@
   font-weight: bold; 
   color: #FF0000; 
 }
+
+#home{
+  font-family: "Courier New", Courier, monospace;
+  align-content: center
+}
