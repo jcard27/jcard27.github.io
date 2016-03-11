@@ -4,6 +4,10 @@
   color: #FF0000; 
 }
 
+#h1{
+	font-size: 40px;
+}
+
 #home{
 	width: auto;
   font-family: "Courier New", Courier, monospace;
