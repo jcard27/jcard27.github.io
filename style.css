@@ -19,8 +19,8 @@
 }
 
 #propic{
-	max-width: 200px;
-	max-height: 200px;
-	margin: auto;
-	border-radius: 15px 50px 200px;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
 }
