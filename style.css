@@ -13,10 +13,11 @@
 }
 
 #propic{
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0; 
+	width: 25%;
+	transform: translate(-5%, 0);
+    max-width: 320px;
+    height:auto;
+
 }
 
 #test{
