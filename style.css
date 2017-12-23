@@ -1,27 +1,15 @@
+<head>
+<style>
 
-#home{
-	width: auto;
-  font-family: Calibri, sans-serif;
-  text-align: center;
-  margin-top: 5%;
-	margin-left: auto;
-	margin-right: auto;
-}
+	body {
+	    background-color: blue;
+	}
 
-#home h1 {
-	font-size: 200%;
-}
+	h1 {
+	    color: green;
+	    margin-left: 40px;
+	}
 
-#propic{
-	width: 25%;
-	transform: translate(-5%, 0);
-    max-width: 320px;
-    height:auto;
-
-}
-
-#test{
-	width: 50px;
-	height: 50px;
-	background-color: red;
-}
+</style>
+</head>
+Try it Yourself »
