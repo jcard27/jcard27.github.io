@@ -23,5 +23,21 @@
 		color: rgb(255, 99, 71);
 	}
 
+	/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #808B96;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #F2F3F4;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
 </style>
 </head>
