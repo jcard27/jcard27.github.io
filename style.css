@@ -1,19 +1,14 @@
 <head>
 <style>
-	* {
-			font-family: "Verdana", sans-serif;
-	}
-	body {
-	    background-color: blue;
-	}
-
 	h1 {
 			text-align: center;
 	    color: rgb(92, 102, 112);
+			font-family: "Verdana", sans-serif;
 	}
 
 	p {
 		text-align: center;
+		font-family: "Verdana", sans-serif;
 	}
 
 	.testclass {
