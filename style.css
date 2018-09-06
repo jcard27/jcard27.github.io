@@ -3,16 +3,20 @@
 
 <style> */
 
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
+/*@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700"); */
+@import url("https://fonts.googleapis.com/css?family=Catamaran:300,700");
+
 	h1 {
-			font-family: 'Open Sans', sans-serif;
+			font-family: 'Catamaran', sans-serif;
+			font-weight: 700;
 			text-align: center;
 
 	}
 
 	p {
 		text-align: center;
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Catamaran Sans', sans-serif;
+		font-weight: 300;
 	}
 
 	.testclass {
@@ -34,6 +38,7 @@
     text-decoration: none;
     font-size: 17px;
 		font-family: 'Catamaran', sans-serif;
+		font-weight: 700;
 }
 
 #profilepic {
