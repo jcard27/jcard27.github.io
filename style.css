@@ -15,10 +15,6 @@
 		text-align: center;
 	}
 
-	#top {
-	    background-color: yellow;
-	}
-
 	.testclass {
 		color: rgb(255, 99, 71);
 	}
@@ -37,6 +33,12 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+}
+
+#profilepic {
+		width: 100px;
+		float: left;
+
 }
 
 </style>
