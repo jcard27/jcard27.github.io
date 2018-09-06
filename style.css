@@ -36,9 +36,9 @@
 }
 
 #profilepic {
-		width: 100px;
-		float: left;
-
+		width: 150px;
+		display: block;
+		text-align: center;
 }
 
 </style>
