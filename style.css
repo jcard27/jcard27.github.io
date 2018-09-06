@@ -15,8 +15,12 @@
 		text-align: center;
 	}
 
-	#top { 
+	#top {
 	    background-color: yellow;
+	}
+
+	.testclass {
+		color: rgb(255, 99, 71);
 	}
 
 </style>
