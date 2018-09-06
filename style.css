@@ -3,12 +3,12 @@
 	h1 {
 			text-align: center;
 	    color: rgb(92, 102, 112);
-			font-family: "Helvetica", sans-serif;
+			font-family: 'Lobster', cursive;
 	}
 
 	p {
 		text-align: center;
-		font-family: "Helvetica", sans-serif;
+		font-family: 'Lobster', cursive;
 	}
 
 	.testclass {
