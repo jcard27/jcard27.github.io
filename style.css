@@ -1,9 +1,10 @@
 <head>
 <style>
-
+	* {
+			font-family: "Verdana", sans-serif;
+	}
 	body {
 	    background-color: blue;
-			font-family: "Verdana", sans-serif;
 	}
 
 	h1 {
