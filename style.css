@@ -4,7 +4,7 @@
 	h1 {
 			font-family: 'Catamaran', sans-serif;
 			text-align: center;
-			
+
 	}
 
 	p {
@@ -20,6 +20,7 @@
 .topnav {
     background-color: #808B96;
     overflow: hidden;
+		position: fixed;
 }
 
 /* Style the links inside the navigation bar */
