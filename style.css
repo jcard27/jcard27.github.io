@@ -42,7 +42,7 @@
     font-size: 17px;
 		font-family: 'Catamaran', sans-serif;
 		font-weight: 700;
-		box-shadow: 4px 4px 4px grey;
+		//box-shadow: 4px 4px 4px grey;
 }
 
 #profilepic {
@@ -51,7 +51,7 @@
 		margin-left: auto;
     margin-right: auto;
 		border-radius: 50%;
-		box-shadow: 4px 4px 2px grey;
+		//box-shadow: 4px 4px 2px grey;
 }
 
 #home {
